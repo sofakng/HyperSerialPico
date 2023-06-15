@@ -10,7 +10,7 @@ set(OUTPUT_SPI_CLOCK_PIN 2)
 set(SPI_INTERFACE spi0)
 
 # Use multi-segment, starting index of second led strip or OFF to disable
-set(SECOND_SEGMENT_INDEX 146)
+set(SECOND_SEGMENT_INDEX 152)
 
 # If multi-segment is used and it's reversed, set this option to ON to enable reversing
 set(SECOND_SEGMENT_REVERSED OFF)
